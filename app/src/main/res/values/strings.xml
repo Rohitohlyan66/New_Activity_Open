@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Button Open New Activity</string>
+    <string name="main_activity">Main Activity</string>
+    <string name="home_activity">Home Activity</string>
+    <string name="go_to_home">GO  TO HOME</string>
+    <string name="go_to_main">GO TO MAIN</string>
+</resources>
